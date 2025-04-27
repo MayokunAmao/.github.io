@@ -153,4 +153,60 @@ Interactive filters include:
 
 
 
+# Project 4
+
+**Title:** [Hotel Bookings Data Analysis Dashboard](https://github.com/MayokunAmao/.github.io/blob/main/Hotel%20Bookings.xlsx)
+
+**Tools Used:** Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Timelines)
+
+**Project Description:**
+
+This project analyzed hotel bookings data to identify booking patterns across hotel types, distribution channels, customer types, and seasons. The dashboard provides a detailed and interactive way for stakeholders to monitor bookings across time periods, market segments, and customer demographics.
+
+The dashboard includes the following features:
+
+•	Hotel Bookings by Year: Total bookings comparison between City Hotels and Resort Hotels.
+
+•	Hotel Bookings by Month: Seasonal booking trends visualized month-by-month.
+
+•	Hotel Bookings by Market Segment: Insights into bookings made through different customer segments like Corporate, Direct, Online TA, etc.
+
+•	Hotel Bookings by Distribution Channel: Analysis of bookings from various distribution sources.
+
+•	Hotel Bookings by Customer Type: Breakdown of bookings by Contract, Group, Transient, and Transient-Party types.
+
+•	Hotel Bookings Based on Repeat Customers: Analysis of the ratio of repeat vs. new customers.
+
+•	Hotel Bookings by Room Type: Room type preference analysis.
+
+Interactive filters include:
+
+•	Reservation status date
+
+•	Market segment
+
+•	Distribution channel
+
+•	Customer type
+
+•	Reserved room type
+
+**Key Findings:**
+
+•	City Hotels Dominate: City Hotels consistently receive more bookings compared to Resort Hotels.
+
+•	Peak Booking Months: Summer months, especially July and August, show peak booking activity.
+
+•	Online Channels Are Key: Majority of bookings come from Online Travel Agencies and TA/TO channels.
+
+•	Transient Guests: Most guests are first-time transient customers rather than repeat customers.
+
+•	Room Type A Popularity: Room Type A is the most frequently booked across both hotel types.
+
+**Dashboard Overview:**
+
+![hotel](hotel.png)The dashboard serves as a strategic tool for hotel management teams to identify peak periods, optimize marketing strategies, focus on high-performing customer segments, and enhance guest loyalty efforts.
+
+
+
 
