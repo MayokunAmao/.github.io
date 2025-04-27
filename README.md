@@ -96,3 +96,53 @@ Interactive filters include:
 
 ![tuberculosis2](tuberculosis2.png)The dashboard delivers comprehensive and actionable insights into the global fight against tuberculosis. It equips healthcare leaders, researchers, and policymakers with the information needed to monitor TB trends, allocate resources efficiently, and support evidence-based policy and healthcare planning.
 
+
+
+
+# Project 3
+
+**Title:** Cholera Outbreak Dashboard — Katarina Parish, 1853
+
+**Tools Used:** Microsoft Excel (Data Preparation), Power BI (DAX Measures, Interactive Visualizations, Slicers)
+
+**Project Description:**
+
+This project analyzed historical cholera mortality data from the 1853 outbreak in Katarina Parish (Stockholm), uncovering key patterns in demographics and death trends over time. An interactive Power BI dashboard was developed to provide historians, researchers, and public health stakeholders with a clear overview of cholera-related deaths by date, gender, and age group. The dashboard empowers users with real-time insights to understand outbreak progression, demographic vulnerabilities, and potential intervention points for future epidemic studies.
+
+The dashboard includes the following features:
+
+• Total Deaths and Average Age Overview: KPI cards summarizing the total cholera-related deaths and average age at death, enabling a quick demographic snapshot.
+
+• Cholera Deaths Over Time: A line chart showing daily death counts, highlighting the timeline and peak periods of the outbreak.
+
+• Gender Distribution of Deaths: A pie chart illustrating the proportion of male and female fatalities during the epidemic.
+
+• Age Group Mortality Analysis: A bar chart categorizing deaths into age groups, helping to identify which age ranges were most affected.
+
+• Peak Deaths Indicator: A KPI card showing the highest daily death toll, emphasizing the outbreak's most critical point.
+
+Interactive filters include:
+
+• Gender
+
+• Death Date
+
+• Age Group
+
+**Key Findings:**
+
+• Outbreak Timeline: The cholera epidemic exhibited a rapid onset, peaking within a short time before declining, consistent with known cholera spread patterns.
+
+• Demographic Vulnerability: Males represented a slightly higher proportion of deaths, while individuals aged 31–50 were among the most affected groups.
+
+• Peak Mortality: The day with the highest number of deaths provided critical insights into the outbreak’s most severe phase.
+
+• Data Limitations: The dataset focuses exclusively on Katarina Parish, suggesting localized insights rather than a citywide or national representation.
+
+**Dashboard Overview:**
+
+![cholera2](cholera2.png)The dashboard delivers clear, historical, and demographic insights into the 1853 cholera outbreak at a parish level. It equips researchers, public health historians, and epidemiology students with structured data visualization tools to analyze epidemic behavior, mortality patterns, and potential future risk factors in urban settings.
+
+
+
+
