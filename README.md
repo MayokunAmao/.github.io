@@ -90,7 +90,14 @@ Interactive filters include:
 •	Year
 
 **Key Findings:**
-•	Regional Disparities: Certain regions, especially lower-income areas, consistently exhibited higher TB incidence and mortality rates. Treatment Success Insights: A clear relationship was observed between higher access to healthcare services and better treatment success rates. Health System Correlation: Higher national health expenditure per capita was generally associated with lower TB mortality, underscoring the importance of robust healthcare systems. Emergence of Drug-Resistant TB: Some countries showed a growing number of drug-resistant TB cases, highlighting critical areas needing intensified focus.
+
+•	Regional Disparities: Certain regions, especially lower-income areas, consistently exhibited higher TB incidence and mortality rates. 
+
+• Treatment Success Insights: A clear relationship was observed between higher access to healthcare services and better treatment success rates. 
+
+• Health System Correlation: Higher national health expenditure per capita was generally associated with lower TB mortality, underscoring the importance of robust healthcare systems. 
+
+• Emergence of Drug-Resistant TB: Some countries showed a growing number of drug-resistant TB cases, highlighting critical areas needing intensified focus.
 
 **Dashboard Overview:**
 
@@ -130,6 +137,7 @@ Interactive filters include:
 • Age Group
 
 **Key Findings:**
+
 
 • Outbreak Timeline: The cholera epidemic exhibited a rapid onset, peaking within a short time before declining, consistent with known cholera spread patterns.
 
