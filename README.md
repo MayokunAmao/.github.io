@@ -27,11 +27,17 @@ The dashboard includes the following features:
 •	Churn by Gender: Gender-based churn statistics.
 
 Interactive Filters Include:
+
 •	Gender
+
 •	Device Type
+
 •	Age Group
+
 •	State
+
 **Key Findings:**
+
 •	Top Churn Drivers: High data costs and better offers elsewhere were the leading causes of customer churn.
 
 •	Age Group Impact: Customers aged 56+ accounted for the highest proportion of churn at 36.62%.
