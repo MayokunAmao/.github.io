@@ -70,6 +70,7 @@ This project analyzed global tuberculosis (TB) data across countries, regions, a
 The dashboard empowers decision-makers with real-time insights to support strategic healthcare interventions and policy planning.
 
 The dashboard includes the following features:
+
 •	Total TB Cases and Deaths Overview: KPI cards summarizing the global burden of tuberculosis, enabling a quick assessment of key metrics.
 
 •	TB Incidence, Mortality, and Treatment Success Trends: Line charts showing how TB cases, deaths, incidence rates, and treatment success rates have evolved year over year.
