@@ -209,4 +209,49 @@ Interactive filters include:
 
 
 
+# Project 5
+
+**Title:** [Global Smoking Analysis Dashboard](https://github.com/MayokunAmao/.github.io/blob/main/Smoking%20Dashboard.xlsx)
+
+**Tools Used:** Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Timelines)
+
+**Project Description:**
+
+This project involved analyzing global smoking data to understand smoking patterns across different countries, genders, and time periods. The interactive dashboard is designed to provide a comprehensive overview of smoking prevalence, cigarette brand dominance, and smoking-related health impacts worldwide.
+
+The dashboard includes the following features:
+
+•	Sum of Smokers by Gender per Country: Breakdown of male and female smokers across various countries.
+
+•	Smoking Prevalence (%) by Country: Visualization of smoking rates as a percentage of the population.
+
+•	Total Smokers by Country: Aggregated total number of smokers by country.
+
+•	Cigarette Top Brand per Country: Analysis of the most popular cigarette brands dominating each country’s market.
+
+•	Smoking-Related Deaths by Country: Visual representation of deaths attributed to smoking.
+
+Interactive filters include:
+
+•	Year selection
+
+•	Country selection
+
+**Key Findings:**
+
+•	Gender Gap: Males consistently smoke more than females across all countries.
+
+•	High Prevalence Regions: Indonesia, Russia, and Vietnam recorded the highest smoking prevalence rates.
+
+•	Brand Dominance: National brands like China National Tobacco Corp. dominate large markets.
+
+•	Health Impact: Countries with large smoker populations have correspondingly high smoking-related death rates.
+
+•	Stable Global Trends: Although some developed countries show a slight decline, the global number of smokers remains high.
+
+**Dashboard Overview:**
+
+![smoking](smoking.png)This dashboard provides critical insights into global smoking behavior, helping policymakers and health organizations target interventions, design anti-smoking campaigns, and allocate healthcare resources efficiently.
+
+
 
