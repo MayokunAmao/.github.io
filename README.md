@@ -93,5 +93,5 @@ Interactive filters include:
 
 **Dashboard Overview:**
 
-![tuberculosis](tuberculosis.png)The dashboard delivers comprehensive and actionable insights into the global fight against tuberculosis. It equips healthcare leaders, researchers, and policymakers with the information needed to monitor TB trends, allocate resources efficiently, and support evidence-based policy and healthcare planning.
+![tuberculosis2](tuberculosis2.png)The dashboard delivers comprehensive and actionable insights into the global fight against tuberculosis. It equips healthcare leaders, researchers, and policymakers with the information needed to monitor TB trends, allocate resources efficiently, and support evidence-based policy and healthcare planning.
 
