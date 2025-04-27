@@ -53,3 +53,45 @@ Interactive Filters Include:
 **Dashboard Overview:**
 
 ![mtn](mtn.png)This dashboard empowers MTN Nigeria’s management with actionable insights into customer churn dynamics, enabling them to refine pricing strategies, improve customer onboarding experiences, develop loyalty programs, and target at-risk customer segments more effectively.
+
+
+
+
+#  Project 2
+
+**Title:** [Global Tuberculosis Trends and Health Indicators Dashboard](https://github.com/MayokunAmao/.github.io/blob/main/Tuberculosis.pbix)
+
+**Tools Used:** Microsoft Excel (Data Preparation), Power BI (DAX Measures, Interactive Visualizations, Slicers)
+
+**Project Description:**
+
+This project analyzed global tuberculosis (TB) data across countries, regions, and income levels to uncover health performance patterns and disease trends over time. An interactive Power BI dashboard was developed to provide public health stakeholders with a clear overview of TB-related cases, deaths, incidence rates, treatment success rates, and other key health indicators.
+
+The dashboard empowers decision-makers with real-time insights to support strategic healthcare interventions and policy planning.
+
+The dashboard includes the following features:
+•	Total TB Cases and Deaths Overview: KPI cards summarizing the global burden of tuberculosis, enabling a quick assessment of key metrics.
+
+•	TB Incidence, Mortality, and Treatment Success Trends: Line charts showing how TB cases, deaths, incidence rates, and treatment success rates have evolved year over year.
+
+•	Top 10 Countries by TB Deaths and Drug-Resistant TB Cases: Bar charts highlighting countries with the highest TB impact, assisting in identifying priority intervention areas.
+
+•	Health Factors vs Mortality Rate: A scatter plot analyzing the relationship between health expenditure per capita and TB mortality rates, offering insights into the influence of healthcare investment.
+
+Interactive filters include:
+
+•	Region
+
+•	Income Level
+
+•	Country
+
+•	Year
+
+**Key Findings:**
+•	Regional Disparities: Certain regions, especially lower-income areas, consistently exhibited higher TB incidence and mortality rates. Treatment Success Insights: A clear relationship was observed between higher access to healthcare services and better treatment success rates. Health System Correlation: Higher national health expenditure per capita was generally associated with lower TB mortality, underscoring the importance of robust healthcare systems. Emergence of Drug-Resistant TB: Some countries showed a growing number of drug-resistant TB cases, highlighting critical areas needing intensified focus.
+
+**Dashboard Overview:**
+
+![tuberculosis](tuberculosis.png)The dashboard delivers comprehensive and actionable insights into the global fight against tuberculosis. It equips healthcare leaders, researchers, and policymakers with the information needed to monitor TB trends, allocate resources efficiently, and support evidence-based policy and healthcare planning.
+
