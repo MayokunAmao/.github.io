@@ -108,7 +108,7 @@ Interactive filters include:
 
 # Project 3
 
-**Title:** Cholera Outbreak Dashboard — Katarina Parish, 1853
+**Title:** [Cholera Outbreak Dashboard — Katarina Parish, 1853](https://github.com/MayokunAmao/.github.io/blob/main/cholera.pbix)
 
 **Tools Used:** Microsoft Excel (Data Preparation), Power BI (DAX Measures, Interactive Visualizations, Slicers)
 
