@@ -254,4 +254,74 @@ Interactive filters include:
 ![smoking](smoking.png)This dashboard provides critical insights into global smoking behavior, helping policymakers and health organizations target interventions, design anti-smoking campaigns, and allocate healthcare resources efficiently.
 
 
+# Project 6
+
+**Title:** 
+Second-Hand Car Dealer Data Analysis Using SQL
+
+**SQL Code:** [Car Data SQL Code](https://github.com/MayokunAmao/.github.io/blob/main/cardata.sql)
+
+**SQL Skills Used:**
+
+•	Data Retrieval (SELECT): Queried and extracted specific car details from the database.
+
+•	Data Aggregation (COUNT, GROUP BY, HAVING): Calculated the number of cars per year, per fuel type, and identified years with high car availability.
+
+•	Data Filtering (WHERE, IN, BETWEEN, AND): Applied conditions to select relevant cars based on year, fuel type, and other attributes.
+
+•	Data Source Specification (FROM): Specified the main car inventory table as the source for all retrievals.
+
+•	Sorting and Ordering (ORDER BY): Organized query outputs for easier analysis and reporting.
+
+**Technology Used:** 
+
+SQL Server
+
+**Project Description:**
+
+This project focuses on the analysis of a comprehensive dataset containing detailed information about a large inventory of second-hand cars. The primary objective is to utilize SQL to extract meaningful insights related to car availability by year, fuel type distribution, sales trends, and overall inventory size.
+
+**Database Design and Implementation:**
+
+•	The dataset was structured into a relational database table (cars) containing attributes such as car name, year, selling price, kilometres driven, fuel type, seller type, transmission, ownership, mileage, engine capacity, max power, torque, and number of seats. Proper normalization and consistent data types were maintained to support efficient querying.
+
+**Data Analysis Using SQL:**
+
+•	Executed a series of SQL queries to answer specific business questions, including:
+
+o	Total number of cars in the database.
+
+o	Number of cars available each year (especially 2020, 2021, 2022, and 2023).
+
+o	Breakdown of cars by fuel type (Petrol, Diesel, CNG) across years.
+
+o	Identification of years where inventory exceeded 100 cars.
+
+o	Detailed listings of cars available between 2015 and 2023.
+
+**Insight Extraction:**
+
+•	Determined peak years of car availability.
+
+•	Analyzed the popularity and trends of fuel types across different years.
+
+•	Identified gaps in inventory, helping the dealership optimize stock and marketing strategies.
+
+•	Highlighted specific market segments (such as Diesel cars in 2020) for targeted sales.
+
+**Reporting and Visualization:**
+
+•	The structured SQL outputs form the foundation for creating comprehensive reports.
+
+•	These insights can further be used to build dashboards using tools like Power BI or Tableau to visualize trends such as:
+
+o	Year-over-year inventory changes
+
+o	Fuel type demand trends
+
+o	Sales strategy planning based on inventory composition.
+
+By the end of this project, the dealership benefits from a fully functional and queryable SQL database capable of supporting strategic decisions through efficient data analysis and insight generation.
+
+
 
