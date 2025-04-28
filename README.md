@@ -410,3 +410,111 @@ o	Price sensitivity and premium product analysis
 
 These insights support operational and strategic decision-making for the pizzeria, enabling better inventory management, promotional planning, and targeted customer engagement strategies.
 
+
+# Project 8
+
+
+ **📚 Title:** 
+ 
+ QS World University Rankings 2025 Data Analysis Using SQL
+
+**SQL Code:**
+
+[2025 QS University Rankings](https://github.com/MayokunAmao/.github.io/blob/main/QESUniRankings2025.sql)
+
+**SQL Skills Used:**
+
+o Data Retrieval (SELECT): Extracted information about universities’ overall rankings, academic reputation, sustainability, and employment outcomes from the dataset.
+
+o Data Aggregation (AVG, COUNT, GROUP BY): Calculated average academic reputation scores and sustainability scores, as well as counted universities by country and region.
+
+o Data Filtering (WHERE, IS NOT NULL, AND): Applied conditions to select universities with meaningful rank changes, strong international faculty presence, and top employment outcomes.
+
+o Data Source Specification (FROM): Defined the data source as [dbo].[2025 QS_University_Rankings] from the SQL Server database.
+
+o Sorting and Ordering (ORDER BY): Organized query outputs, such as sorting universities by Overall Score, Faculty Student Score, and University Counts, in descending order for analysis clarity.
+
+o Limiting Results (TOP): Used TOP(n) syntax to retrieve the most relevant subsets, such as top universities or top-ranked regions.
+
+**Technology Used:**
+
+SQL Server 
+
+**Project Description:**
+
+This project centers around performing a deep analysis of the QS World University Rankings 2025 dataset. The focus was on using SQL queries to uncover patterns related to academic reputation, research intensity, graduate employability, and sustainability efforts among over 1,500 institutions globally. The insights were meant to assist education consultants, students, universities, and policymakers in:
+
+
+o Benchmarking university performance.
+
+o Identifying leading institutions across various global metrics.
+
+o Recognizing excellence in academic and sustainability dimensions.
+
+**Database Design and Implementation:**
+
+o Database Table: [dbo].[2025 QS_University_Rankings]
+
+o Columns Included: Institution Name, Location, Region, RANK_2024, RANK_2025, Academic Reputation Score, Faculty Student Score, International Faculty Score, Employment Outcomes Score, Sustainability Score, and others.
+
+**Data Cleaning Implementations:**
+
+o Ensured ranking columns (2024/2025) were properly numeric and free from equality signs ('=').
+
+o Treated missing or null values logically (e.g., using IS NOT NULL filters).
+
+o Standardized text-based columns like Region and Research Intensity for consistent querying.
+
+**Data Analysis Using SQL:**
+
+o Executed a series of SQL queries to answer the following business questions:
+
+o Top 10 Universities by Overall Score (2025): Selected and ordered the highest-scoring universities globally.
+
+o Universities with the Biggest Rank Improvements: Identified universities with the most significant positive movement from 2024 to 2025.
+
+o Average Academic Reputation by Region: Provided regional benchmarking on perceived academic quality.
+
+o Top 5 Countries by Number of Ranked Universities: Highlighted the countries contributing most heavily to the global education market.
+
+o Top 3 Regions with Most Universities Ranked: Aggregated university counts by region to see educational density globally.
+
+o Universities with Very High Research Intensity and Top 100 Ranks: Focused on elite institutions with outstanding research commitments.
+
+o Universities with International Faculty Score > 90: Filtered globally diversified faculties in higher education.
+
+o Universities with Employment Outcomes Score > 90: Showed universities with highly employable graduates.
+
+o Average Sustainability Score for Europe: Assessed how European institutions perform regarding sustainable practices.
+
+o Top 10 Universities by Faculty Student Score: Recognized institutions providing the most attention per student.
+
+**Insight Extraction:**
+
+o Identified elite performers across key metrics like research, sustainability, and employability.
+
+o Detected leading countries and regions contributing to global higher education.
+
+o Showed student-centric universities via strong Faculty-to-Student ratios.
+
+o Highlighted internationalized universities by their faculty composition.
+
+o Recognized top employment-focused institutions helping graduates transition into the workforce.
+
+o Surfaced sustainability champions among European universities.
+
+**Reporting and Visualization:**
+
+o The SQL query outputs are ideal for dynamic dashboard visualizations, potentially using Power BI or Tableau, including:
+
+o Global Map Visualization: Distribution of universities worldwide.
+
+o Ranking Trend Lines: Movements in institutional performance year-over-year.
+
+o Bar Charts: Top 10 universities by Overall Score, Faculty Student Score, and Employment Outcomes.
+
+o Pie Charts: Public vs Private university shares.
+
+o Scatter Plots: International Faculty diversity vs Academic Reputation.
+
+These visualizations can guide students, administrators, and policymakers in strategic decision-making about education systems.
