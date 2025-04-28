@@ -263,15 +263,15 @@ Second-Hand Car Dealer Data Analysis Using SQL
 
 **SQL Skills Used:**
 
-•	Data Retrieval (SELECT): Queried and extracted specific car details from the database.
+o	Data Retrieval (SELECT): Queried and extracted specific car details from the database.
 
-•	Data Aggregation (COUNT, GROUP BY, HAVING): Calculated the number of cars per year, per fuel type, and identified years with high car availability.
+o	Data Aggregation (COUNT, GROUP BY, HAVING): Calculated the number of cars per year, per fuel type, and identified years with high car availability.
 
-•	Data Filtering (WHERE, IN, BETWEEN, AND): Applied conditions to select relevant cars based on year, fuel type, and other attributes.
+o	Data Filtering (WHERE, IN, BETWEEN, AND): Applied conditions to select relevant cars based on year, fuel type, and other attributes.
 
-•	Data Source Specification (FROM): Specified the main car inventory table as the source for all retrievals.
+o	Data Source Specification (FROM): Specified the main car inventory table as the source for all retrievals.
 
-•	Sorting and Ordering (ORDER BY): Organized query outputs for easier analysis and reporting.
+o	Sorting and Ordering (ORDER BY): Organized query outputs for easier analysis and reporting.
 
 **Technology Used:** 
 
@@ -283,11 +283,11 @@ This project focuses on the analysis of a comprehensive dataset containing detai
 
 **Database Design and Implementation:**
 
-•	The dataset was structured into a relational database table (cars) containing attributes such as car name, year, selling price, kilometres driven, fuel type, seller type, transmission, ownership, mileage, engine capacity, max power, torque, and number of seats. Proper normalization and consistent data types were maintained to support efficient querying.
+o	The dataset was structured into a relational database table (cars) containing attributes such as car name, year, selling price, kilometres driven, fuel type, seller type, transmission, ownership, mileage, engine capacity, max power, torque, and number of seats. Proper normalization and consistent data types were maintained to support efficient querying.
 
 **Data Analysis Using SQL:**
 
-•	Executed a series of SQL queries to answer specific business questions, including:
+o	Executed a series of SQL queries to answer specific business questions, including:
 
 o	Total number of cars in the database.
 
@@ -301,19 +301,19 @@ o	Detailed listings of cars available between 2015 and 2023.
 
 **Insight Extraction:**
 
-•	Determined peak years of car availability.
+o	Determined peak years of car availability.
 
-•	Analyzed the popularity and trends of fuel types across different years.
+o	Analyzed the popularity and trends of fuel types across different years.
 
-•	Identified gaps in inventory, helping the dealership optimize stock and marketing strategies.
+o	Identified gaps in inventory, helping the dealership optimize stock and marketing strategies.
 
-•	Highlighted specific market segments (such as Diesel cars in 2020) for targeted sales.
+o	Highlighted specific market segments (such as Diesel cars in 2020) for targeted sales.
 
 **Reporting and Visualization:**
 
-•	The structured SQL outputs form the foundation for creating comprehensive reports.
+o	The structured SQL outputs form the foundation for creating comprehensive reports.
 
-•	These insights can further be used to build dashboards using tools like Power BI or Tableau to visualize trends such as:
+o	These insights can further be used to build dashboards using tools like Power BI or Tableau to visualize trends such as:
 
 o	Year-over-year inventory changes
 
