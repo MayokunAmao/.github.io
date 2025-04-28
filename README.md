@@ -287,7 +287,7 @@ o	The dataset was structured into a relational database table (cars) containing 
 
 **Data Analysis Using SQL:**
 
-o	Executed a series of SQL queries to answer specific business questions, including:
+Executed a series of SQL queries to answer specific business questions, including:
 
 o	Total number of cars in the database.
 
@@ -324,4 +324,89 @@ o	Sales strategy planning based on inventory composition.
 By the end of this project, the dealership benefits from a fully functional and queryable SQL database capable of supporting strategic decisions through efficient data analysis and insight generation.
 
 
+# Project 7
+
+**Title:**
+
+Pizza Sales Data Analysis Using SQL
+
+**SQL Code:**
+
+[Pizza Sales SQL Code](https://github.com/MayokunAmao/.github.io/blob/main/pizza.sql)
+
+*SQL Skills Used:*
+
+o	Data Retrieval (SELECT): Queried and extracted specific pizza sales details from the database.
+
+o	Data Aggregation (SUM, COUNT, GROUP BY, HAVING): Calculated total revenue, total pizzas sold, and order counts.
+
+o	Data Filtering (WHERE, IN, BETWEEN, AND): Applied filters to select pizzas based on date ranges, categories, size, and price points.
+
+o	Data Source Specification (FROM): Specified the pizza sales table as the main data source for analysis.
+
+o	Sorting and Ordering (ORDER BY): Organized query outputs to enable better analysis and interpretation of sales data.
+
+**Technology Used:**
+
+SQL Server
+
+**Project Description:**
+
+This project involves the analysis of a real-world pizza sales dataset containing transaction-level details for a pizzeria. The main objective is to use SQL queries to uncover business insights related to total revenue generation, pizza sales volumes, customer ordering patterns, and product popularity based on size, type, and price.
+
+**Database Design and Implementation:**
+
+o	The dataset was organized into a relational database table (pizza_sales) containing attributes such as order ID, order date, pizza name, pizza size, pizza category, quantity sold, unit price, and total price.
+
+o	Data was cleaned and structured to ensure consistent formatting (e.g., proper date handling, uniform size categories) for optimal querying and analysis performance.
+
+Data Analysis Using SQL:
+
+Executed a series of SQL queries to answer key business questions, including:
+
+o	Total revenue generated over the sales period.
+
+o	Total quantity of pizzas sold.
+
+o	Total number of distinct customer orders.
+
+o	Total sales for vegetarian pizzas.
+
+o	Number of specific popular pizzas (The Hawaiian Pizza and The Greek Pizza) sold.
+
+o	Pizzas ordered in specific months like January 2015 and November 2015.
+
+o	Quantity sold of specialty pizzas such as The Spinach Supreme Pizza.
+
+o	List of all medium-sized pizzas sold.
+
+o	Identification of pizzas priced above $12.50.
+
+**Insight Extraction:**
+
+o	Determined the overall performance of pizza sales and revenue contribution.
+
+o	Identified the popularity of vegetarian and non-vegetarian categories among customers.
+
+o	Recognized peak months for specific pizza sales trends.
+
+o	Highlighted premium pizzas based on pricing strategy (> $12.50), allowing for targeted marketing and upselling.
+
+o	Gained insights into customer preferences regarding pizza size, especially medium-sized pizzas.
+
+**Reporting and Visualization:**
+
+o	The structured SQL outputs are ideal for creating comprehensive dashboards and visual reports.
+
+o	Potential visualizations include:
+
+o	Monthly revenue trends
+
+o	Top-selling pizza categories and types
+
+o	Size-based sales performance
+
+o	Price sensitivity and premium product analysis
+
+These insights support operational and strategic decision-making for the pizzeria, enabling better inventory management, promotional planning, and targeted customer engagement strategies.
 
